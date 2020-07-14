@@ -1,0 +1,26 @@
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    width: 400px;
+    border-top: 1px solid #f8f8f8; 
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+body{
+	background-image: url("https://www.petmd.com/sites/default/files/Acute-Dog-Diarrhea-47066074.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	font-family: lato;
+	color: white;
+}
+#content{
+	padding-top: 25%;
+	text-align: center;
+	text-shadow: 0px 4px 3px orange;
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
